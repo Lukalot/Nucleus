@@ -1,4 +1,4 @@
-# Nucleus Dark theme for Obsidian
+# Nucleus dark theme for Obsidian
 
 By [Lukalot](https://github.com/Lukalot)
 
