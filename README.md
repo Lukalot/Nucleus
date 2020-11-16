@@ -17,7 +17,7 @@ _Nucleus_ is a sleek, carefully designed offshoot of the Obsidian Dark theme tha
 	- Code Block Copying by [jdbrice](https://github.com/jdbrice)
 	- Many more!
 
-![Calendar integration (Plugin by liamcain)](images/nucleus_calendar_integration.png) ![Code Block Copying integration (Plugin by jdbrice)](https://github.com/Lukalot/Obsidian-Nucleus-Theme/blob/main/images/nucleus_code.png)
+![Calendar integration (Plugin by liamcain)](images/nucleus_calendar_integration.png) ![Code Block Copying integration (Plugin by jdbrice)](images/nucleus_code.png)
 
 ### Metatags
 Sure, technically all tags are metadata, but I'm classifying metadata tags as such for a special reason. For me, I manage my Zettels with lots and lots of tags, but for the most part, I only apply tags to the most fundamental and central note per cluster. So what about data that I need to include in every note for ease of filtering? For example: daily journal entries or notes that refer to note-taking ( hence the "Metatags" term) are common as things that are best filtered *out* of your Obsidian graph. For these, I have a new solution: Metatags! To create a metatag with Nucleus, simply prefix your tag name with a `-` character. #-meta and #-dated-entry are just a couple examples.
