@@ -4,7 +4,7 @@ By [Lukalot](https://github.com/Lukalot)
 
 _Nucleus_ is a sleek, carefully designed offshoot of the Obsidian Dark theme that holds true to the original styling.
 
-![Nucleus documentation image](https://github.com/Lukalot/Obsidian-Nucleus-Theme/blob/main/images/preview.png)
+![Nucleus documentation image](images/preview.png)
 
 ### Features
 - Totally redesigned tag styling
