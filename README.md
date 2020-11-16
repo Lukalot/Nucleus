@@ -25,6 +25,6 @@ Sure, technically all tags are metadata, but I'm classifying metadata tags as su
 What's the point of the distinction, you ask? Adding the dash separates them from the rest of the name-space, which means it leaves the #meta tag, for example, open for use! This way it's easy to distinguish which tags are in fact metatags and which tags aren't. Metatags appear green to distinguish them further but I also think it just looks really nice that way.
 
 ### Thanks for using Nucleus theme
-Thanks for trying out the theme and I hope you enjoy it. Feel free to submit an issue to the repository here on Github or message me personally on Discord ( Lukalot#9396 ).
+Thanks for trying out Nucleus, I hope you enjoy it! Feel free to submit an issue to the repository here on Github or message me personally on Discord ( Lukalot#9396 ).
 
 ![Nucleus graph image](https://github.com/Lukalot/Obsidian-Nucleus-Theme/blob/main/images/nucleus_graph.png)
